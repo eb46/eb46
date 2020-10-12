@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
 ### Lets Connect
--[LinkedIn](https://www.linkedin.com/in/eric-bondoc) 
+-[LinkedIn](https://www.linkedin.com/in/eric-bondoc)
 -[Portfolio](https://www.eric-bondoc.com/)
 -[Email](mailto:ericjbondoc@gmail.com)
