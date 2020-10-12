@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Lets Connect
+- [LinkedIn](https://www.linkedin.com/in/eric-bondoc)
+- [Portfolio](https://www.eric-bondoc.com/)
+- [Email](ericjbondoc@gmail.com)
