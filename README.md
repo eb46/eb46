@@ -1,6 +1,8 @@
 ### Hi there, I'm Eric! 👋
 
-I'm a Software Engineer and Photographer based in Southern California. I'm huge on collaboration and a strong believer in "If you want to go fast, go alone. If you want to go far, go together." - African Proverb
+I'm a Software Engineer and Photographer based in Southern California. I'm currently working as a Software Engineer for [Family Proud](https://www.familyproud.com/), a care management platform helping to build a community of people united to support loved ones in need of critical healthcare necessities.
+
+I'm huge on collaboration and a strong believer in "If you want to go fast, go alone. If you want to go far, go together." - African Proverb
 
 When I'm not coding, I enjoy spending time with my family, traveling, and playing sports.
 
