@@ -1,6 +1,6 @@
 ### Hi there, I'm Eric! 👋
 
-I'm a Software Engineer and Photographer based in Southern California. I'm currently working as a Software Engineer for [JMJ Financial](https://web.jmj.me/). Let's connect!
+I'm a Software Engineer and Photographer based in Southern California. I'm currently working as a Software Engineer for [ONRAMP](https://onrampcard.com/). Let's connect!
 
 "If you want to go fast, go alone. If you want to go far, go together." - African Proverb
 
